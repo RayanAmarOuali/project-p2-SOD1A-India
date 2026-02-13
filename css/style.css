@@ -78,6 +78,7 @@
 
 
 
+
 /* Homepage */
 .indexbody {
     font-family: Arial, Helvetica, sans-serif;
@@ -223,6 +224,22 @@
     font-size: 16px;
  }
 
+ 
+#countdown-container {
+    text-align: center;
+    margin: 30px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    width: 400px;
+    border: #1a73e8 2px solid;
+    border-radius: 8px;
+}
+
+#countdown span {
+    font-size: 2rem;
+    padding: 0 5px;
+}
+
 
 
  /* Tabel bevolking */
@@ -347,6 +364,17 @@ input, select {
      padding: 10px 20px;
      margin-right: 10px;
   }
+
+ 
+
+.doncontainer {
+    background-color: #ffffff;
+    border: #1a73e8 2px solid;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+
+
 
 
 
